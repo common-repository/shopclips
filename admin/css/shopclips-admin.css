@@ -1,0 +1,36 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.shopclips-tag-metabox .shopclips_prelink_tag {
+  padding: 10px 10px 0;
+}
+
+.shopclips-tag-metabox .input-text {
+  margin-top: 2px;
+  width: 100%;
+}
+
+.shopclips-product-metabox {
+  padding-top: 10px;
+}
+
+
+.shopclips-submit-box {
+  margin-top: 5px;
+  text-align: right;
+}
+
+.shopclips-variation-panel {
+  border-top: 1px solid #eee;
+}
+
+.shopclips-variation-panel .form-field .checkbox {
+  margin: 0px !important;
+}
+
+.shopclips-product-metabox .input-text {
+  margin-top: 2px;
+  width: 100%;
+}
